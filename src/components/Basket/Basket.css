@@ -1,0 +1,38 @@
+.basket-container{
+    padding: 1.5rem;
+    background-color: white;
+    border: 16px solid #eee;
+    border-radius: 24px;
+}
+
+.basket-container h3{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+
+.basket-container ul{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.basket-container ul .total{
+    border-top: 1px solid #ddd;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    font-size:2rem;
+    color: green;
+    text-align: right;
+    font-weight: bold;
+}
+
+.reset-btn{
+    background: crimson;
+    color: whitesmoke;
+    height: 3rem;
+    padding: 0 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+}
