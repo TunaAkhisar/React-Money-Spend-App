@@ -3,7 +3,7 @@
 This is a money spending application running on React, you can add the products you choose to your cart and see the total prices.
 
 ![Image1](./Images/Image1.png)
-![Image2](./Images/Image1.png)
+![Image2](./Images/Image2.png)
 
 
 
